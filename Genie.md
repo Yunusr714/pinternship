@@ -2,7 +2,6 @@
 layout: page
 title: Genie
 permalink: /genie/
-order: 3
 ---
 
 <style>

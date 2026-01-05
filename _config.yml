@@ -9,6 +9,8 @@ header_pages:
   - Vlogs.md
   - Faq.md
   - Genie.md
+  - Ejection.md
+  - Support.md
 
 
 markdown: kramdown
