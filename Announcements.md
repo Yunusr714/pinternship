@@ -9,7 +9,7 @@ announcements:
       description: "Welcome to the Pinternship Inaugural Ceremony. This session marks the official launch of the Pinternship program."
       content: "The Pinternship Inaugural Session will commence with a warm welcome and opening remarks, creating an inviting atmosphere for all participants. This will be followed by a comprehensive introduction to the Pinternship program, highlighting its vision, purpose, and the opportunities it offers for learning and professional growth. The session will also provide a clear overview of the program structure, timelines, and expectations, helping participants understand their roles and responsibilities throughout the journey. Additionally, key guidelines, communication channels, and support mechanisms will be shared to ensure a smooth and productive experience. The session aims to inspire participants, align them with the program’s objectives, and set a positive and confident tone for the Pinternship ahead."
 #   - title: "The Self-Healing Endorsement Network"
-#     date: "January 9, 2026"
+#     date: "January 15, 2026"
 #     description: "Understanding the endorsement network system, audit process, incentives, and dashboard challenge for visualizing endorsement chains and network health."
 #     content: |
 #       **Step 1: Understand the network**

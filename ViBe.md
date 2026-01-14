@@ -61,6 +61,15 @@ Completion of all ViBe platform course modules is required as part of the Core L
 
 ---
 
+## ViBe Demo Video
+
+You can watch a short demo of the ViBe platform here:
+
+[ViBe Demo Video](https://www.youtube.com/watch?v=PIIiMWbx2A0&feature=youtu.be){:target="_blank"}
+
+---
+
+
 ## Support
 
 For any ViBe-related issues, please refer to [FAQ](../faq/) and follow the [Escalation Policy](../protocols_and_policies/) to get your query resolved.
