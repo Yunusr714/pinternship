@@ -8,7 +8,6 @@ interface Props {
   setActiveNote: (note: Note) => void;
   addNote: () => void;
 }
-
 export default function Sidebar({ notes, activeNoteId, setActiveNote, addNote }: Props) {
   return (
     <div className="w-64 border-r border-white/10 bg-neutral-900/50 backdrop-blur-xl h-full flex flex-col pt-6">
